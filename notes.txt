@@ -12,3 +12,4 @@
 ##NOTES
 1. Can derive time cost of path of each edge by analyzing data
 2. Most roads need to be traveled twice; once for each direction/lane.
+3. test
