@@ -13,12 +13,12 @@
 2. Most roads need to be traveled twice; once for each direction/lane.
 
 ##QUESTIONS
-1. Are routes standardized (same every time)?
-2. Is the data incomplete i.e. is the data sampled? Seems to be based on the first column. 
+1. Are routes standardized (i.e. predetermined routes)?
+2. Is the data incomplete (i.e. is the data sampled)? Seems to be, based on the first column. 
 3. Will data be live in the future (for tracking for instance)?
 4. Is there a data dictionary for the city_streets shape file?
-5. How many miles can a plow spread salt?
+5. How many miles can a plow spread salt before refilling?
 6. Must the trucks go back and refill multiple times per shift? Where is starting point, and where is the refill location?
-7. What is the strategy regarding route interruption depending on how heavy the snow is? i.e. are there certain ‘modes’ e.g. heavy snow highways and emergency routes only?
+7. What is the strategy regarding route interruption depending on how heavy the snow is? i.e. are there certain ‘modes’ e.g. heavy snow ==> highways and emergency routes only?
 8. How does the main office use the weather reports (e.g. rate of predicted snowfall effects routes), and where do they come from? 
 9. Any data regarding which roads have to be traversed twice (i.e. two lanes to be plowed) versus once? Hard to optimize route on a graph without knowing.
