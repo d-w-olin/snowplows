@@ -11,6 +11,7 @@
 ##NOTES
 1. Can derive time cost of path of each edge by analyzing data
 2. Most roads need to be traveled twice; once for each direction/lane.
+3. Judges are: Sam, iSchool rep, AT&T rep, DPW rep
 
 ##QUESTIONS
 1. Are routes standardized (i.e. predetermined routes)?
